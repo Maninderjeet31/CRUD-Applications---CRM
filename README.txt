@@ -55,8 +55,7 @@ The SQL scripts have been added in this project. You can either use that or crea
  					
 Screenshots: 
 
-![Test Image 1](https://github.com/Maninderjeet31/CRUD-Applications---Employees/blob/main/images/first.png)
-![Test Image 2](https://github.com/Maninderjeet31/CRUD-Applications---Employees/blob/main/java%20crud%20project/2.%20john%20-%20employee%20-%20page.png)
+![Login] (https://github.com/Maninderjeet31/CRUD-Applications---Employees/blob/main/images/first.png)
 
 
 Reference: https://www.udemy.com/course/spring-hibernate-tutorial/
