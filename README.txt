@@ -1,4 +1,4 @@
-CRUD Application - SPRING BOOT, SPRING SECURITY AND THYMELEAF
+##CRUD Application - SPRING BOOT, SPRING SECURITY AND THYMELEAF
 ==========================================
 An Employee Directory application. This version makes use of JDBC Authentication with encrypted passwords.
 
@@ -8,7 +8,7 @@ This Spring Boot project will make use of two different datasources
 3. The database configs are in the file: application.properties
 
 
-DISPLAY CONTENT BASED ON USER ROLE
+###DISPLAY CONTENT BASED ON USER ROLE
 ==================================
 
 In the application, the content is displayed based on the user role.
@@ -20,7 +20,7 @@ In the application, the content is displayed based on the user role.
 The role based links are also made to  hide or display . For example, if the user has only the "EMPLOYEE" role, then the user gets only the links available for "EMPLOYEE" role.
 Links for "MANAGER" and "ADMIN" role should not be displayed for the "EMPLOYEE".
 
-TEST THE APPLICATION
+###TEST THE APPLICATION
 ====================
 1. Before running the application, make sure the database tables are set up (via SQL files).  Also, be sure to update application.properties for database connection (url, userid, pass)
  
@@ -40,7 +40,7 @@ TEST THE APPLICATION
 
 4. Confirm that you can login and access data based on the roles.
 
-SQL Table
+###SQL Table
 =========
 There is a table needed in database for this application. Below is the sample table that was used while building this project.
 The SQL scripts have been added in this project. You can either use that or create a custom table.
