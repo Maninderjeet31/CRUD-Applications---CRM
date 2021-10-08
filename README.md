@@ -30,28 +30,16 @@ TEST THE APPLICATION
 
 4. Log in using one of the accounts
 
-+---------+----------+-----------------------------+
-| user id | password |            roles            |
-+---------+----------+-----------------------------+
-| john    | fun123   | ROLE_EMPLOYEE               |
-| mary    | fun123   | ROLE_EMPLOYEE, ROLE_MANAGER |
-| susan   | fun123   | ROLE_EMPLOYEE, ROLE_ADMIN   |
-+---------+----------+-----------------------------+
+<img width="639" alt="Screenshot 2021-10-08 at 4 10 35 PM" src="https://user-images.githubusercontent.com/38119046/136619457-119de6d5-d2bc-4637-bebc-e2d8c99dc6d8.png">
 
-4. Confirm that you can login and access data based on the roles.
+5. Confirm that you can login and access data based on the roles.
 
 SQL Table
 =========
 There is a table needed in database for this application. Below is the sample table that was used while building this project.
 The SQL scripts have been added in this project. You can either use that or create a custom table.
 
-+---------+----------+-----------------------------+
-| user id | password |            roles            |
-+---------+----------+-----------------------------+
-| john    | fun123   | ROLE_EMPLOYEE               |
-| mary    | fun123   | ROLE_EMPLOYEE, ROLE_MANAGER |
-| susan   | fun123   | ROLE_EMPLOYEE, ROLE_ADMIN   |
-+---------+----------+-----------------------------+
+<img width="639" alt="Screenshot 2021-10-08 at 4 11 23 PM" src="https://user-images.githubusercontent.com/38119046/136619533-75146a72-b15f-4128-b4d3-0724403cd7be.png">
  					
 Screenshots: 
 
