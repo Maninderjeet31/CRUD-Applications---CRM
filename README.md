@@ -1,6 +1,6 @@
-CRUD Application - SPRING BOOT, SPRING SECURITY AND THYMELEAF
+CRM System - REST API --- SPRING BOOT, SPRING SECURITY AND THYMELEAF
 ==========================================
-A Customer Relationship Management application with CRUD functionality. This version makes use of JDBC Authentication with encrypted passwords.
+A REST API  for Customer Relationship Management application with CRUD functionality.
 
 This Spring Boot project will make use of two different datasources
 1. Main datasource for the app. This is for accessing the "employee" database
