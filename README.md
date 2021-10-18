@@ -1,4 +1,4 @@
-CRM System - REST API --- SPRING BOOT, SPRING SECURITY AND THYMELEAF
+CRM System - REST API ---> SPRING BOOT, SPRING SECURITY AND THYMELEAF
 ==========================================
 A REST API  for Customer Relationship Management application with CRUD functionality.
 
